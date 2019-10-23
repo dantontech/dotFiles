@@ -5,4 +5,3 @@ set number
 set termguicolors
 packadd! dracula
 colorscheme dracula
-call deoplete#enable()
